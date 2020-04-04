@@ -1,0 +1,137 @@
+
+h1{
+    margin-top: 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 4.62rem;
+    color: #6fbfbf;
+    line-height: 2;
+}
+
+body{
+    margin: 0;
+    text-align: center;
+    font-size:1.2em;
+    margin: 50 auto 0 auto;
+     letter-spacing: 1px;
+     word-spacing: 1px;
+    font-family: adobe-garamond-pro,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+    font-weight: 300;
+    
+}
+
+    
+h2,h3{
+    font-family: brandon-grotesque,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
+    font-weight: 500;
+    line-height: 1.1;
+    color: #6fbfbf;
+}
+.top_container{
+    position: relative;
+    background-color:#EAF9F9;
+    border-width: 10px;
+    border-color: black;
+    padding-top: 20px;
+    font-size: 1.5rem;
+
+}
+
+.txt2{
+    font-weight: normal;
+}
+.part1-text{
+    color: #6fbfbf;
+    height:200px;
+    padding:100px;
+} 
+
+.cloud-1{
+    position: absolute;
+    right:300px;
+    top:90px;
+}
+.cloud-2{
+    position: absolute;
+    bottom: 550px;
+    left:270px;
+
+}
+.mountain{
+    position: relative;
+    bottom: 30px;
+    
+}
+.border{
+    border-style: dotted;
+    border-color:#eaf6f6
+    ;
+    margin: 100px auto;
+    width: 5%;
+    border-top-width: 8px;
+    border-bottom: 0;
+    
+}
+.profile{
+    padding:20px;
+}
+.pro-pic{
+    width: 100px;
+    height: 100px;
+    margin-top: 50px;
+}
+.footer-link,.btn{
+    color: #11999e;
+    margin:10px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+  
+    
+}
+.image1{
+    width: 25%;
+    height: 25%;
+    float: left;
+    margin-right: 150px;
+    position: relative;
+    bottom: 100px;
+    
+}
+p{
+    line-height: 2;
+}
+
+.image2{
+    width: 20%;
+    height: 20%;
+    float: right;
+    margin-left: 150px ;
+}
+
+.bottom-container{
+    background-color: #6fbfbf;
+     padding-top: 50px;
+
+     
+    
+}
+.message_me{
+    background-color: #6fbfbf;
+    font-family: cursive;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    position: relative;
+    text-decoration: none;
+    width: 15%;
+    margin: 20px auto;
+    top: 20px;
+
+}
+.a{
+    color: #EAF9F9;
+    font-size: 0.75rem;
+}
